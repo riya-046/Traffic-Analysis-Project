@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Data files (optional if large)
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
