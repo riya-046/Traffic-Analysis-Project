@@ -6,7 +6,7 @@
 
 This project is a 10-week end-to-end data analytics project focused on analyzing traffic patterns in Pune, India.
 
-- The goal is to build a complete pipeline:
+The goal is to build a complete pipeline:
 - Data Cleaning → EDA → Dashboard → Machine Learning
 
 By the end of this project, we will deliver:
