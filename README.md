@@ -18,23 +18,23 @@ By the end of this project, we will deliver:
 
 🎯 Objectives
 
--Analyze traffic congestion patterns in Pune
--Identify peak traffic hours and hotspots
--Build a dashboard for real-time insights
--Predict traffic congestion using ML models
--Estimate environmental impact (CO₂ emissions)
+- Analyze traffic congestion patterns in Pune
+- Identify peak traffic hours and hotspots
+- Build a dashboard for real-time insights
+- Predict traffic congestion using ML models
+- Estimate environmental impact (CO₂ emissions)
 
 🛠️ Tech Stack
 
--Python (Pandas, NumPy)
--Visualization: Matplotlib, Seaborn
--Dashboard: Streamlit / Power BI
--Machine Learning: Scikit-learn
--Version Control: Git & GitHub
+- Python (Pandas, NumPy)
+- Visualization: Matplotlib, Seaborn
+- Dashboard: Streamlit / Power BI
+- Machine Learning: Scikit-learn
+- Version Control: Git & GitHub
 
 📈 Future Work
 
--Data cleaning and preprocessing
--Advanced EDA with visualizations
--Dashboard development
--Machine learning models for prediction
+- Data cleaning and preprocessing
+- Advanced EDA with visualizations
+- Dashboard development
+- Machine learning models for prediction
